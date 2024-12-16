@@ -56,7 +56,7 @@ gallery.html
         </div>
         <br><br>
         <div class="container">
-            <img src="9.jpg" alt="Image 9" onclick="open('9.jpg')">
+            <img src="9.jpg" alt="Image 9" onclick="openImage('9.jpg')">
             <img src="10.jpg" alt="Image 10" onclick="openImage('10.jpg')">
             <img src="11.jpg" alt="Image 11" onclick="openImage('11.jpg')">
             <img src="12.jpg" alt="Image 12" onclick="openImage('12.jpg')">
